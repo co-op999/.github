@@ -10,7 +10,7 @@ Computer Engineering Students from CEDT02, Chula U.
 
 ### Schedule of 1/2024
 
-   <table>
+   <table width="200px;" height="200px">
     <tr>
       <th colspan="1">       </th>
       <th colspan="4">August</th>
