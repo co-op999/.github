@@ -8,25 +8,17 @@ Computer Engineering Students from CEDT02, Chula U.
 - [atipata](https://github.com/atipata)
 - [gincole](https://github.com/gincole)
 
-### Schedule of 1/2024
+### Schedule  `now - end of 1/2024`
 
-<table height="250px">
+<table height="200px">
   <tr>
     <th colspan="1"></th>
-    <th colspan="4">Aug</th>
-    <th colspan="5">Sep</th>
+    <th colspan="2">Sep</th>
     <th colspan="4">Oct</th>
     <th colspan="4">Nov</th>
   </tr>
   <tr>
     <td></td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
     <td>4</td>
     <td>5</td>
     <td>1</td>
@@ -40,13 +32,6 @@ Computer Engineering Students from CEDT02, Chula U.
   </tr>
   <tr>
     <td></td>
-    <td>w1</td>
-    <td>w2</td>
-    <td>w3</td>
-    <td>w4</td>
-    <td>w5</td>
-    <td>w6</td>
-    <td>w7</td>
     <td>w8</td>
     <td>w9</td>
     <td>w10</td>
@@ -60,36 +45,21 @@ Computer Engineering Students from CEDT02, Chula U.
   </tr>
   <tr>
     <td><b>Mon</b></td>
-    <td colspan="7" style="background-color:pink;">Intro CEDT</td>
     <td colspan="5" style="background-color:rgb(171, 220, 239);">Digital</td>
     <td colspan="5" style="background-color:rgb(171, 239, 203);">Data Algo</td>
   </tr>
   <tr>
-    <td><b>Tueเช้า</b></td>
-    <td colspan="12" style="background-color:orange;">Com Prog</td>
-    <td colspan="5" style="background-color:rgb(171, 239, 203);">Data Algo</td>
-  </tr>
-  <tr>
-    <td><b>Tueบ่าย</b></td>
-    <td colspan="7"></td>
+    <td><b>Tue</b></td>
     <td colspan="5" style="background-color:orange;">Com Prog</td>
     <td colspan="5" style="background-color:rgb(171, 239, 203);">Data Algo</td>
   </tr>
   <tr>
     <td><b>Wed</b></td>
-    <td colspan="7" style="background-color:pink">Intro CEDT</td>
     <td colspan="5" style="background-color:rgb(171, 220, 239);">Digital</td>
     <td colspan="5" style="background-color:rgb(171, 239, 203);">Data Algo</td>
   </tr>
   <tr>
-    <td><b>Thuเช้า</b></td>
-    <td colspan="7" style="background-color:orange;">Com Prog</td>
-    <td colspan="5" style="background-color:rgb(171, 220, 239);">Digital</td>
-    <td colspan="5" style="background-color:rgb(171, 239, 203);">Data Algo</td>
-  </tr>
-  <tr>
-    <td><b>Thuบ่าย</b></td>
-    <td colspan="7"></td>
+    <td><b>Thu</b></td>
     <td colspan="5" style="background-color:rgb(171, 220, 239);">Digital</td>
     <td colspan="5" style="background-color:rgb(171, 239, 203);">Data Algo</td>
   </tr>
@@ -101,9 +71,4 @@ Computer Engineering Students from CEDT02, Chula U.
     <td><b>Friบ่าย</b></td>
     <td colspan="17" style="background-color:rgb(185, 176, 176);">Friday Activities</td>
   </tr>
-  <tr>
-    <td><b>Sat</b></td>
-    <td colspan="17"></td>
-  </tr>
 </table>
-
